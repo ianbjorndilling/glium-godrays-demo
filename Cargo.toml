@@ -1,0 +1,9 @@
+[package]
+name = "pi_arcade"
+version = "0.1.0"
+authors = ["iandilling <ianbjorndilling@gmail.com>"]
+
+[dependencies]
+glium = "*"
+cgmath = "*"
+image = "*"
